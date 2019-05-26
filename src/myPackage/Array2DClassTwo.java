@@ -1,0 +1,17 @@
+package myPackage;
+
+public class Array2DClassTwo
+{
+	public static void main(String args[])
+	{
+		int [][]arr= {{11,22,33},{44,55,66}};
+				
+		System.out.println(arr[0][0]);
+		System.out.println(arr[0][1]);
+		System.out.println(arr[0][2]);
+		System.out.println(arr[1][0]);
+		System.out.println(arr[1][1]);
+		System.out.println(arr[1][2]);
+		
+		}
+}
